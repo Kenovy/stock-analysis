@@ -18,7 +18,7 @@ As we can see in the chart above, 2017 was a good year in terms of return, the o
 
 ![All stock 2018](https://github.com/Kenovy/stock-analysis/blob/main/Resources/2018.png)
 
-Difference than 2017, 2018 wasnt a good year, almost all the stocks had a negative return but ENPH and RUN, where as we can see, the return was around  80-85% over 2018. 
+Difference than 2017, 2018 wasnt a good year, almost all the stocks had a negative return but ENPH and RUN, as we can see, the return was around  80-85% over 2018. 
 
 
 ### Overerall Advantages and disadvantages of refactoring code
