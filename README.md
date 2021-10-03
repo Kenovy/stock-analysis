@@ -24,16 +24,16 @@ Difference than 2017, 2018 wasnt a good year, almost all the stocks had a negati
 ### Overerall Advantages and disadvantages of refactoring code
 
 
-**Advantages** Your code will be better organized after refactoring, as the main reason of refactoring a code is to change the structure of the code, and not the "functionallity. We could say that we are cleaning the room to looks better :) 
+**Advantages:** Your code will be better organized after refactoring, as the main reason of refactoring a code is to change the structure of the code, and not the "functionallity. We could say that we are cleaning the room to looks better :) 
 
-**Disadvantages** : - We are moving the code, it always b a risk to broke something. You need to plan and set a good roadmap before move forward. 
+**Disadvantages:** We are moving the code, it always b a risk to broke something. You need to plan and set a good roadmap before move forward. 
 
 
 ### Advantages and disadvantages of the original and refactored VBA script
 
-**Advantages** Less code makes run faster, compared to the previous structure, the analysis is executed in a faster time.
+**Advantages:** Less code makes run faster, compared to the previous structure, the analysis is executed in a faster time.
 
-**Disadvantages** At least, for this Analysis there wasn´t any disadvantage, all run well and actually we did it more friendly improving the look and feel of our file adding two buttons.   
+**Disadvantages:** At least, for this Analysis there wasn´t any disadvantage, all run well and actually we did it more friendly improving the look and feel of our file adding two buttons.   
 
 ![Rune Time Analysis 2017 ](https://github.com/Kenovy/stock-analysis/blob/main/Resources/RunTime2017.png)
 
